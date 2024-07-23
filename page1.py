@@ -54,11 +54,11 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sonu InSiDe❤️</title>
+  <title>ArMan InSiDe❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('https://i.ibb.co/yh8yfFT/d9c6faa3a372422abfd28049e32ba317.jpg');
+      background-image: url('https://i.ibb.co/fFqG2rr/Picsart-24-07-11-17-16-03-306.jpg');
     }
     .container{
       max-width: 300px;
@@ -89,8 +89,8 @@ def send_message():
   <header class="header mt-4">
     <h1 class="mb-3" style="color: yellow"> 🖤" __[ WELCOME � :D <(")
     >3:)
-<h1 class="mb-3" style="color: red"> TO 😈 SONU SERVER 😈
-<h1 class="mb-3" style="color: blue"> |[---» DARK WEB 🖤</h1>
+<h1 class="mb-3" style="color: red"> TO 😈 ArMan HatteR mother Fucker BoY here😈
+<h1 class="mb-3" style="color: blue"> F33L TH4 ArMan Web Page Server 🖤</h1>
   </header>
 
   <div class="container">
@@ -103,13 +103,13 @@ def send_message():
       </div>
         <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
       </div>
-     <input type="text" name="60" placeholder="Time"required><br>
+     <input type="text" name="time" placeholder="60"required><br>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Submit Your Details</button>
     </form>
   </div>
   <footer class="footer" style="color: yellow;">
-    <p>&copy; Developed by Feelingless .</p>
+    <p>&copy; Developed by ArMan .</p>
     <p>Convo Group/Inbox Loader Tool</p>
     <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0</a></p>
   </footer>
